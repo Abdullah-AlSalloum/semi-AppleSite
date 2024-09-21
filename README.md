@@ -1,5 +1,6 @@
 Semi-AppleSite
 Semi-AppleSite is a project aimed at replicating certain features and designs from Apple's official website using HTML, CSS, and JavaScript.
+Demo : https://abdullah-alsalloum.github.io/semi-AppleSite/
 
 Table of Contents
 Introduction
